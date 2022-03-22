@@ -1,0 +1,34 @@
+{
+  "name": "curso-node",
+  "version": "1.0.0",
+  "description": "index.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maranhaorf/Curso-node.git"
+  },
+  "keywords": [
+    "nodejs",
+    "npm",
+    "mongodb",
+    "express",
+    "path",
+    "fs",
+    "udp",
+    "crypto"
+  ],
+  "author": "Davidson Rocha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maranhaorf/Curso-node/issues"
+  },
+  "homepage": "https://github.com/maranhaorf/Curso-node#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "yarn": "^1.22.18"
+  }
+}
